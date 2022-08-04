@@ -1,0 +1,16 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-I",
+      "../include",
+      "-o",
+      "main",
+      "../src/main.cpp"
+    ],
+    "directory": "/home/oterminal/Programming/Pong/build",
+    "file": "/home/oterminal/Programming/Pong/src/main.cpp",
+    "output": "/home/oterminal/Programming/Pong/build/main"
+  }
+]
